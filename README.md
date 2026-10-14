@@ -16,7 +16,7 @@ Laboratório de SOC (Security Operations Center) construído como **Infraestrutu
 ## Roadmap
 
 - [x] Fase 0 — Inventário e limpeza do lab anterior (Wazuh/TheHive)
-- [ ] Fase 1 — Repositório e estrutura
+- [x] Fase 1 — Repositório e estrutura
 - [ ] Fase 2 — Nó de contêineres + Docker Compose (Splunk, Zabbix, Grafana)
 - [ ] Fase 3 — Ingestão de logs (Universal Forwarder, agentes Zabbix)
 - [ ] Fase 4 — GPO de auditoria
