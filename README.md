@@ -1,4 +1,4 @@
-﻿# lab-infra
+# lab-infra
 
 Laboratório de SOC (Security Operations Center) construído como **Infraestrutura como Código**.
 

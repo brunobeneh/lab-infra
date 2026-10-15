@@ -1,4 +1,4 @@
-﻿# --- Segredos e credenciais ---
+# --- Segredos e credenciais ---
 .env
 *.env
 !.env.example

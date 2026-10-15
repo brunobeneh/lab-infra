@@ -1,4 +1,4 @@
-﻿# ADR 0001 - Docker sem o grupo `docker`
+# ADR 0001 - Docker sem o grupo `docker`
 
 - **Status:** Aceita
 - **Data:** 2026-10-14

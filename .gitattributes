@@ -1,4 +1,4 @@
-﻿# Padrão: fim de linha LF (Linux) em todos os arquivos de texto
+# Padrão: fim de linha LF (Linux) em todos os arquivos de texto
 * text=auto eol=lf
 
 # Exceção: scripts do Windows usam CRLF
